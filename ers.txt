@@ -1,0 +1,32 @@
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Objetivo del proyecto:
+El objetivo de este proyecto es desarrollar una página web para la organización ONGAD que brinde ayuda a las personas en situaciones difíciles y promueva el voluntariado y la colaboración para el bien común.
+
+Requerimientos funcionales:
+
+Registro de usuarios: La página web debe permitir que los usuarios se registren y creen un perfil con información básica, como nombre, correo electrónico y contraseña.
+
+Búsqueda de ayuda: La página web debe proporcionar una sección de búsqueda para que los usuarios puedan buscar la ayuda que necesiten, como asistencia médica, apoyo emocional, ayuda financiera, entre otros.
+
+Registro de voluntarios: La página web debe permitir que los usuarios se registren como voluntarios y creen un perfil con información básica, habilidades y experiencia.
+
+Gestión de proyectos: La página web debe permitir a los administradores de ONGAD publicar proyectos que necesiten voluntarios y gestionar el proceso de selección y asignación de voluntarios.
+
+Sistema de donaciones: La página web debe incluir un sistema de donaciones en línea para que los usuarios puedan contribuir a ONGAD monetariamente y apoyar los proyectos y programas de la organización.
+
+Comunicación: La página web debe proporcionar una plataforma de comunicación para que los usuarios puedan comunicarse entre sí y con los administradores de ONGAD.
+
+Requerimientos no funcionales:
+
+Seguridad: La página web debe ser segura y proteger la información personal y financiera de los usuarios y voluntarios.
+
+Diseño amigable: La página web debe tener un diseño atractivo y fácil de usar para mejorar la experiencia del usuario.
+
+Escalabilidad: La página web debe ser escalable y capaz de manejar un gran volumen de usuarios y proyectos.
+
+Disponibilidad: La página web debe estar disponible en todo momento y garantizar un tiempo de actividad mínimo.
+
+Tecnología: La página web debe estar desarrollada utilizando tecnologías modernas y estándares web para garantizar su compatibilidad y sostenibilidad a largo plazo.
+
+En resumen, el proyecto ONGAD - Página Web para Ayuda a los Demás tiene como objetivo desarrollar una página web que proporcione ayuda a las personas en situaciones difíciles, promueva el voluntariado y la colaboración, y garantice la seguridad y la calidad de la experiencia del usuario. Los requerimientos funcionales y no funcionales mencionados son esenciales para garantizar el éxito del proyecto.
